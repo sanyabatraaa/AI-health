@@ -1,0 +1,18 @@
+# Python
+venv/
+myenv/
+env/
+__pycache__/
+*.pyc
+
+# Node (if frontend exists)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large ML / binaries safety
+*.dll
+*.lib
+*.exe
